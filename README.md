@@ -10,6 +10,7 @@
 <a href="https://github.com/0x2Anessie/42-PushSwap">![42 Badge](https://github.com/byaliego/42-project-badges/blob/main/badges/push_swape.png)</a>
 <a href="https://github.com/0x2Anessie/42-SoLong">![42 Badge](https://github.com/byaliego/42-project-badges/blob/main/badges/so_longe.png)</a>
 <a href="https://github.com/0x2Anessie/42-MiniShell">![42 Badge](https://github.com/byaliego/42-project-badges/blob/main/badges/minishelle.png)</a>
+<a href="https://github.com/0x2Anessie/42-Philosophers">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png)</a>
 
   
 </div>

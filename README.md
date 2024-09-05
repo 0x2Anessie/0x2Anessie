@@ -21,4 +21,4 @@
 
 
 <a href="https://github.com/0x2Anessie/42-CPP">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png)</a>
-<a href="https://github.com/0x2Anessie/42-Cub3D">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png)</a>
+<a href="https://github.com/Leefz/Cub3D">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png)</a>

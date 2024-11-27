@@ -13,7 +13,7 @@
 <a href="https://github.com/0x2Anessie/42-Philosophers">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png)</a>
 <a href="https://github.com/0x2Anessie/42-NetPractice">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticee.png)</a>
 <a href="https://github.com/0x2Anessie/42-Cub3D">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png)</a>
-<a href="https://github.com/raveriss/ft_irc">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_irce.png)</a>
+<a href="https://github.com/0x2Anessie/42-FtIRC">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_irce.png)</a>
 
   
 </div>

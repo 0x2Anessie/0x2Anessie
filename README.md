@@ -14,6 +14,7 @@
 <a href="https://github.com/0x2Anessie/42-NetPractice">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticee.png)</a>
 <a href="https://github.com/0x2Anessie/42-Cub3D">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png)</a>
 <a href="https://github.com/0x2Anessie/42-FtIRC">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_irce.png)</a>
+<a href="https://github.com/0x2Anessie/42-CPP">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png)</a>
 
   
 </div>
@@ -21,5 +22,4 @@
 ### Currently working on
 <div align="center">
 
-
-<a href="https://github.com/0x2Anessie/42-CPP">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png)</a>
+<a href="https://github.com/0x2Anessie/42-Inception">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png)</a>
